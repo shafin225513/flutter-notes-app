@@ -1,5 +1,7 @@
 # Flutter Notes App
 
+This is my first Flutter application.
+
 A simple yet polished **Notes application** built with **Flutter**, focusing on clean UI, smooth user experience, and complete CRUD functionality. This app demonstrates core Flutter skills, local state handling, and practical app design suitable for everyday use.
 
 The project was created as part of a personal portfolio to showcase strong fundamentals and attention to UI/UX details.
